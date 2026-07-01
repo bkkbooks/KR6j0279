@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6j0279/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 馬頭觀音心陀羅尼
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T20/T20n1072B.xml
+    old_id: T20n1072B
+hash: sha256:a781669a3a7ba706f41be14cfb45265385c90fdb62b4f3a6cd1df4225d6bf757
