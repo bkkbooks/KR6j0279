@@ -25,7 +25,13 @@ assets:
   - {seq: 0, role: markers, filename: assets/KR6j0279_000-T.markers.yaml, hash: 'sha256:d2d3e061dda8f0907f6a4a93081576e3039a2643664ef2171ce8feb38a3ae3d7'}
   - {seq: 1, role: markers, filename: assets/KR6j0279_001-T.markers.yaml, hash: 'sha256:cb508e7ce7d7d540a802eb2b91a1e867ea5ee89a03fb1496a0ff0a78c5bbb4e1'}
 table_of_contents:
-- ref: {seq: 1, marker_id: KR6j0279_T_001-juan-start, span: [body, 0, 50]}
+- ref:
+    seq: 1
+    marker_id: KR6j0279_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 50
   label: 馬頭觀音心陀羅尼
   type: juan
   level: 1

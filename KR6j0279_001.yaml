@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 􅑈􅝪􅝪􅉺􅞣􅞣􅞣􅞣􅞣􅋌􅋌􅋌􅗭􅁥以隆僧都本書寫之件本大師御筆云云後日以般若寺僧正御手跡本比交以朱付點本也
-  hash: sha256:c333421ac552233352634b81a167412126bfc029608fdd389a42a5acfd086093
+  text: 􅑈􅝪􅝪􅉺􅞣􅞣􅞣􅞣􅞣􅋌􅋌􅋌􅗭􅁥以隆僧都本書寫之件本大師御筆云云後日以般若寺僧正御手迹本比交以朱付點本也
+  hash: sha256:4dc15393ad8eb4f9149b0da36bd361bbe66ba2ab2aafcc283e4f9e0162392b64
   markers:
   - {type: 'cbeta:juan-start', offset: 0, content: 馬頭觀音心陀羅尼, id: KR6j0279_T_001-juan-start, juan_n: '001', jhead: 馬頭觀音心陀羅尼}
 metadata:
@@ -16,4 +16,4 @@ metadata:
     repository: cbeta
     path: /home/chris/src/xml-p5/T/T20/T20n1072B.xml
     old_id: T20n1072B
-hash: sha256:0d5d2becd8913896f179df0722d206dfa1ee72a497b15057f34b2569dd87dafe
+hash: sha256:ff7960d0334d57520110cceca26bb972c9864ba5af5263eb916df7da93b9263b

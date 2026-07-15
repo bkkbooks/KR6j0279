@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6j0279/v1
 canonical_location: https://kanripo.org/bkk/KR6j0279/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 馬頭觀音心陀羅尼
   identifiers:
@@ -17,10 +17,10 @@ metadata:
 assets:
   parts:
   - {seq: 0, filename: KR6j0279_000.yaml, hash: 'sha256:a781669a3a7ba706f41be14cfb45265385c90fdb62b4f3a6cd1df4225d6bf757'}
-  - {seq: 1, filename: KR6j0279_001.yaml, hash: 'sha256:0d5d2becd8913896f179df0722d206dfa1ee72a497b15057f34b2569dd87dafe'}
+  - {seq: 1, filename: KR6j0279_001.yaml, hash: 'sha256:ff7960d0334d57520110cceca26bb972c9864ba5af5263eb916df7da93b9263b'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6j0279_000.markers.yaml, hash: 'sha256:984c402fd6c41d4650d94f2c9777a115d65caf387d8c18a714b5fe70d46319ab'}
-  - {seq: 1, role: markers, filename: assets/KR6j0279_001.markers.yaml, hash: 'sha256:a3605d559554806290588d4902d22ce6719b0baf0b84be076f12b181772f456a'}
+  - {seq: 1, role: markers, filename: assets/KR6j0279_001.markers.yaml, hash: 'sha256:81dee7fc44780b9a68ca2ab0db111945e2a1b854c007a6015e5c1c6a8a4c829f'}
 table_of_contents:
 - ref:
     seq: 1
@@ -32,6 +32,9 @@ table_of_contents:
   label: 馬頭觀音心陀羅尼
   type: juan
   level: 1
-hash: sha256:7746f66b6e654a6d1d256c32788ca054466f717e9c31a952198c620257d3904b
+hash: sha256:09baa6713e74ac59d478a0be32203114ef5418d0d624de86d3265c55121d7e9d
 editions:
 - short: T
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
